@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> 한필우의 주식 투자  
+</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+    <h1><a href="index.html">한필우의 주식 투자</a></h1>
+    <ol>
+    <li><a href="1.주식 종목">주식 종목</li></a>
+    <li><a href="2.주식 차트">주식 차트</li></a>
+    </ol>
+<h2>주식 차트</h2> 
+<p>이 페이지는 아직 정확히 뭘할지는 모르겠는 공란이다. 투자 분석 관련한 사이트로 운영할 것 같다. 혹은 현재까지 수익률 기록용?
+</p>
+</body>
+</html>
